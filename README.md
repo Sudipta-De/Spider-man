@@ -1,4 +1,5 @@
 # 🕷️ Spider-Man Web Game
+# Live Demo (https://spidey-1.netlify.app/)
 
 <p align="center">
   <strong>🕸️ Swing into action. Dodge obstacles. Chase the highest score. 🕸️</strong>
@@ -7,6 +8,7 @@
 <p align="center">
   A lightweight Spider-Man-inspired browser game built with JavaScript, HTML5 Canvas and web technologies.
 </p>
+
 
 <p align="center">
   ⭐ Star this repository if you enjoy the game!
