@@ -1,5 +1,4 @@
-# 🕷️ Spider-Man Web Game
-# Live Demo (https://spidey-1.netlify.app/)
+# 🕷️ Spider-Man Web Game (https://spidey-1.netlify.app/)
 
 <p align="center">
   <strong>🕸️ Swing into action. Dodge obstacles. Chase the highest score. 🕸️</strong>
