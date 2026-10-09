@@ -260,14 +260,6 @@ If you have an idea that could make the game better:
 
 ---
 
-## ⭐ Support
-
-If you enjoyed the project, consider giving the repository a **⭐ Star** on GitHub.
-
-It helps support the project and motivates further development!
-
----
-
 <p align="center">
 
 ### 🕷️ With great power comes great responsibility. 🕷️
